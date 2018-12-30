@@ -7,8 +7,8 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "511237640092123150"; // ايدي السررفر
-var channel = "511238296840568842";//ايدي الروم
+var server = "529006127829090304"; // ايدي السررفر
+var channel = "529006127829090306";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
     },305);
